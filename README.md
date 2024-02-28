@@ -14,3 +14,4 @@ This project involves an autonomous vehicle system. The system integrates:
 The system will activate an alarm if the driver is drowsy, prompting them to enable automatic driving mode for their safety. If the driver agrees, the auto-driving mode will be activated with the aforementioned features.
 
  
+you can find the project here : https://medium.com/@noiknoun/self-driving-car-project-part1-lane-detection-and-curve-estimation-db43c3a9ca29
