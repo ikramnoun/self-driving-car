@@ -45,11 +45,11 @@ while True:
                 
     key=cv2.waitKey(1)
     if key==ord("y"):
-        os.system("ativation.mp3")
+#        os.system("ativation.mp3")
  #       ply("ativation.mp3")
         apply_processing=True
     elif key==ord("n"):
-        os.system("desativation.mp3")
+ #       os.system("desativation.mp3")
         #ply("desativation.mp3")
         apply_processing=False
     elif key==ord("q"):
