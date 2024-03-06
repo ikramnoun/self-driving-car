@@ -15,3 +15,5 @@ The system will activate an alarm if the driver is drowsy, prompting them to ena
 
  
 you can find the project here : https://medium.com/@noiknoun/self-driving-car-project-part1-lane-detection-and-curve-estimation-db43c3a9ca29
+
+In this PDF, you can find a brief explanation of the project implementation procedure : [self driving car project.pdf](https://github.com/ikramnoun/self-driving-car/files/14515715/self.driving.car.project.pdf)
